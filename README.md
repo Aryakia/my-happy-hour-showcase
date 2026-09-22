@@ -2,6 +2,8 @@
 
 **A source-linked local discovery product for curated happy-hour offers in Brentwood/Burnaby and Downtown Vancouver.**
 
+[View the source-verification workflow and dated-snapshot caveat](docs/VISUAL_CASE_STUDY.md) · [Public case-study page](index.html)
+
 | | |
 |---|---|
 | **Project type** | Local discovery · data curation · consumer web product |
